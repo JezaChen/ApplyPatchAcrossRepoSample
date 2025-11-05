@@ -8,6 +8,7 @@
 
 ```shell
 git clone --recursive https://github.com/JezaChen/ApplyPatchAcrossRepoSample 
+cd ApplyPatchAcrossRepoSample
 ```
 
 进入repoA子仓库，对dev分支最近的两次提交输出一个补丁文件：
