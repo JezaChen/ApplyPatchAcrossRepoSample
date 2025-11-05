@@ -15,6 +15,7 @@ cd ApplyPatchAcrossRepoSample
 
 ```shell
 cd repoA
+git checkout dev
 git format-patch -2 dev --stdout > my.patch
 ```
 

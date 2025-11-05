@@ -1,6 +1,8 @@
 [submodule "repoA"]
 	path = repoA
 	url = git@github.com:JezaChen/ApplyPatchAcrossRepo-RepoA.git
+	branch = main
 [submodule "repoB"]
 	path = repoB
 	url = git@github.com:JezaChen/ApplyPatchAcrossRepo-RepoB.git
+	branch = main
