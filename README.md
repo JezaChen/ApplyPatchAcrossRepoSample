@@ -1,6 +1,6 @@
 # 跨仓库应用Git提交的方法 - 示例代码
 
-原文: https://jeza.net/2025/11/05/Git-Apply-Patch-Across-Repos/
+文档链接: https://jeza.net/2025/11/05/Git-Apply-Patch-Across-Repos/
 
 ## 过程
 
